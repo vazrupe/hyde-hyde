@@ -1,0 +1,2 @@
+# CSS source files always have LF line endings
+*.css text eol=lf
