@@ -1,2 +1,2 @@
-# Style source files always have LF line endings
+# All text files always have LF line endings
 * text=auto eol=lf
