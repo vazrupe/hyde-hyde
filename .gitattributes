@@ -1,2 +1,4 @@
-# CSS source files always have LF line endings
+# Style source files always have LF line endings
 *.css text eol=lf
+*.css.map text eol=lf
+*.scss text eol=lf
